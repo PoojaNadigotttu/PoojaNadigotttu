@@ -107,7 +107,7 @@ A comprehensive exam seating management system with role-based access control an
 
 **Tech Stack:** JavaScript, Node.js, Firebase, HTML5, CSS3
 
-**Repository:** [View on GitHub](https://github.com/PoojaNadigotttu/Automated-Seating-Arrangement)
+
 
 ---
 
@@ -139,7 +139,7 @@ Research-oriented project exploring secure resource sharing in distributed syste
 
 **Tech Stack:** Blockchain, Smart Contracts, Distributed Systems, MySQL, Networking
 
-**Repository:** [View on GitHub](https://github.com/PoojaNadigotttu/Blockchain-6G-Networks)
+
 
 ---
 
